@@ -5,21 +5,33 @@ grameenphone-stock-analysis-powerbi-dashboard<img width="1914" height="1009" alt
 ## 📌 Overview
 This project analyzes Grameenphone stock performance using Power BI. It focuses on price trends, trading volume, and market behavior over time.
 
+## 📈 Key Features of Dashboard
+- 📉 Stock price trend analysis (Open, Close, High, Low)
+- 📊 Volume traded analysis
+- 📆 Time-series performance visualization
+- 📌 Key performance indicators (KPIs)
+- 🔍 Interactive filters for date-based analysis
 ---
+## 🧠 Insights Derived
+- Identification of price fluctuation patterns over time
+- Understanding of trading volume behavior
+- Detection of bullish and bearish market trends
+- Long-term performance evaluation of GP stock
 
-## 📈 Key Insights
-- Stock price volatility analysis over time
-- Trading volume spikes and market reaction
-- Trend identification using moving averages
-- Overall performance evaluation of GP stock
-
----
-
-## 🛠 Tools Used
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Excel / CSV dataset
-
-
+## 🛠 Tools & Technologies
+- **Power BI Desktop**
+- **Microsoft Excel (Data Source)**
+- **DAX (Data Analysis Expressions)**
+- **Data Visualization Techniques**
+- 
+## 🚀 Project Files
+### 🔹 Excel Dataset
+[Download Stock Price Dataset](https://github.com/armanhosenBTechEnthusiast/Grameenphone-Stock-Analysis-Power-BI-Dashboard-/raw/main/stock%20price.xlsx)
+### 🔹 Power BI Dashboard
+https://github.com/armanhosenBTechEnthusiast/Grameenphone-Stock-Analysis-Power-BI-Dashboard-
+## 👨‍💻 Author
+**Arman Hosen**  
+BBA in Finance and Banking / Data Enthusiast  
+Jashore University of Science and Technology
 
 
